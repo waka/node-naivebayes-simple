@@ -1,0 +1,14 @@
+{
+    "name": "naivebayes-simple",
+    "version": "0.0.1",
+    "description": "This is simple imaplementation of Naive Bayes algorythm.",
+    "author": "Yoshimasa Wakahara"<y.wakahara@gmail.com>"
+    "repository": {
+        "type": "git",
+        "url" : "http://github.com/waka/node-naivebayes-simple.git"
+    },
+    "engines": {
+        "node": ">= 0.4.0 <= 0.5.2"
+    }
+    "main": "./lib/naivebayes-simple"
+}
